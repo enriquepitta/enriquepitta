@@ -4,11 +4,9 @@ Soy **Desarrollador Mobile** con +3 años de experiencia en **iOS (Swift, Object
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Proyecto destacado
 
 - 🎓 [ClassLift](https://github.com/enriquepitta/classlift): App académica para planificación de clases, exámenes y tareas. Desarrollada en Flutter con backend en Spring Boot y Firebase.
-- 🌤️ [ClimaApp](https://github.com/enriquepitta/ClimaApp): App del clima con geolocalización y diseño moderno.
-- 🌐 [Mi portfolio](https://enriquepittadev.netlify.app): ¡Conóceme mejor!
 
 ---
 
